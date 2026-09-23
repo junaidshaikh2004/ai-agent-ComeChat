@@ -4,6 +4,9 @@ A RAG customer support agent for the fictional ecommerce company Aster & Row. Bu
 
 It answers policy and product questions from the company's knowledge base (with citations), looks up order status from a mock order dataset, remembers context across a conversation, and knows when to say "I don't know" or hand a customer off to a real person instead of guessing.
 
+## Demo Video
+<video src="https://github.com/user-attachments/assets/5df59979-315a-49fa-a389-2f520c705cf8" controls width="700"></video>
+
 ## Setup
 
 Requires Python 3.11+ and [`uv`](https://docs.astral.sh/uv/).
